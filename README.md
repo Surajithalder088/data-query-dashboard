@@ -126,6 +126,12 @@ npm run build
 
 ---
 
+Links
+
+* Github Repository : https://github.com/Surajithalder088/data-query-dashboard.git
+
+*Live link: https://data-query-dashboard-brown.vercel.app/
+
 📢 Future Enhancements
 
 ✅ AI-powered autocomplete for query suggestions.
